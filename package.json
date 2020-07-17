@@ -6,7 +6,7 @@
   "homepage": "https://towhidkashem.github.io/react-calendar",
   "private": true,
   "dependencies": {
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.19",
     "moment": "^2.22.2",
     "rc-color-picker": "^1.2.6",
     "rc-time-picker": "^3.3.1",
